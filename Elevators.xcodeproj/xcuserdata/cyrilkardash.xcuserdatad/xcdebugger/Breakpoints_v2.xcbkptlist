@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BED1B61F-CB18-4926-B9A4-2E95EA5B2B64"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14D185B9-109C-48DA-BC58-14411130DE0E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Elevators/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72E73EC1-4E52-4912-8318-22E730ED0184"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Elevators/View/ElevatorViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "setupUI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "72E73EC1-4E52-4912-8318-22E730ED0184 - c41a8e9ec6a51577"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Elevators.ElevatorViewController.animateElevator(id: Swift.Int, at: Swift.Int) -&gt; ()"
+                  moduleName = "Elevators"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cyrilkardash/Desktop/iOS/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC-%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0/Elevators/Elevators/View/ElevatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "72E73EC1-4E52-4912-8318-22E730ED0184 - c41a8e9ec6a51577"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Elevators.ElevatorViewController.animateElevator(id: Swift.Int, at: Swift.Int) -&gt; ()"
+                  moduleName = "Elevators"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cyrilkardash/Desktop/iOS/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC-%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0/Elevators/Elevators/View/ElevatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "72E73EC1-4E52-4912-8318-22E730ED0184 - c41a8e9ec6a51550"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Elevators.ElevatorViewController.animateElevator(id: Swift.Int, at: Swift.Int) -&gt; ()"
+                  moduleName = "Elevators"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cyrilkardash/Desktop/iOS/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC-%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0/Elevators/Elevators/View/ElevatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "72E73EC1-4E52-4912-8318-22E730ED0184 - c41a8e9ec6a51550"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Elevators.ElevatorViewController.animateElevator(id: Swift.Int, at: Swift.Int) -&gt; ()"
+                  moduleName = "Elevators"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cyrilkardash/Desktop/iOS/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC-%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0/Elevators/Elevators/View/ElevatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "72E73EC1-4E52-4912-8318-22E730ED0184 - c41a8e9ec6a51531"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Elevators.ElevatorViewController.animateElevator(id: Swift.Int, at: Swift.Int) -&gt; ()"
+                  moduleName = "Elevators"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cyrilkardash/Desktop/iOS/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC-%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0/Elevators/Elevators/View/ElevatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "72E73EC1-4E52-4912-8318-22E730ED0184 - c41a8e9ec6a51531"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Elevators.ElevatorViewController.animateElevator(id: Swift.Int, at: Swift.Int) -&gt; ()"
+                  moduleName = "Elevators"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cyrilkardash/Desktop/iOS/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC-%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0/Elevators/Elevators/View/ElevatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "72E73EC1-4E52-4912-8318-22E730ED0184 - c41a8e9ec6a51550"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Elevators.ElevatorViewController.animateElevator(id: Swift.Int, at: Swift.Int) -&gt; ()"
+                  moduleName = "Elevators"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cyrilkardash/Desktop/iOS/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC-%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0/Elevators/Elevators/View/ElevatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "72E73EC1-4E52-4912-8318-22E730ED0184 - c41a8e9ec6a51550"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Elevators.ElevatorViewController.animateElevator(id: Swift.Int, at: Swift.Int) -&gt; ()"
+                  moduleName = "Elevators"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cyrilkardash/Desktop/iOS/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC-%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0/Elevators/Elevators/View/ElevatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EEE243B-B635-4B93-B341-737B1CD3D148"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Elevators/View/ElevatorViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "setupUI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7EEE243B-B635-4B93-B341-737B1CD3D148 - c41a8e9ec6a51531"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Elevators.ElevatorViewController.animateElevator(id: Swift.Int, at: Swift.Int) -&gt; ()"
+                  moduleName = "Elevators"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cyrilkardash/Desktop/iOS/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC-%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0/Elevators/Elevators/View/ElevatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "7EEE243B-B635-4B93-B341-737B1CD3D148 - c41a8e9ec6a51512"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Elevators.ElevatorViewController.animateElevator(id: Swift.Int, at: Swift.Int) -&gt; ()"
+                  moduleName = "Elevators"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cyrilkardash/Desktop/iOS/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC-%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0/Elevators/Elevators/View/ElevatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "7EEE243B-B635-4B93-B341-737B1CD3D148 - c41a8e9ec6a51acc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Elevators.ElevatorViewController.animateElevator(id: Swift.Int, at: Swift.Int) -&gt; ()"
+                  moduleName = "Elevators"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cyrilkardash/Desktop/iOS/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC-%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0/Elevators/Elevators/View/ElevatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "624">
+               </Location>
+               <Location
+                  uuid = "7EEE243B-B635-4B93-B341-737B1CD3D148 - c41a8e9ec6a51af3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Elevators.ElevatorViewController.animateElevator(id: Swift.Int, at: Swift.Int) -&gt; ()"
+                  moduleName = "Elevators"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cyrilkardash/Desktop/iOS/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC-%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0/Elevators/Elevators/View/ElevatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "624">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08C53627-9484-4C87-9A3D-D6126D38403B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Elevators/View/ElevatorViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "ElevatorViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0874EF9-FB09-40D4-B7C3-A3E1AA762CA0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Elevators/View/ElevatorViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "updateElevatorPosition(lift:floor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
